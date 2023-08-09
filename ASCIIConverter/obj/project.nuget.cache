@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TQJa2xbv1Q7tyJphrBFEW4rG9YNGQ7gEsO1mIh7WCuGfKucZi4r09nvqIw9HbHdwgezftNMCh5eI8VIX137QeA==",
+  "success": true,
+  "projectFilePath": "/Users/drevoksi/VS Projects/ASCII-Converter/ASCIIConverter/ASCIIConverter.csproj",
+  "expectedPackageFiles": [
+    "/Users/drevoksi/.nuget/packages/skiasharp/2.88.3/skiasharp.2.88.3.nupkg.sha512",
+    "/Users/drevoksi/.nuget/packages/skiasharp.nativeassets.macos/2.88.3/skiasharp.nativeassets.macos.2.88.3.nupkg.sha512",
+    "/Users/drevoksi/.nuget/packages/skiasharp.nativeassets.win32/2.88.3/skiasharp.nativeassets.win32.2.88.3.nupkg.sha512"
+  ],
+  "logs": []
+}
