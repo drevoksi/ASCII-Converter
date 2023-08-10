@@ -4,8 +4,8 @@ namespace ASCIIConverter
 {
     public class Greyscale
     {
-        readonly int width;
-        readonly int height;
+        public readonly int width;
+        public readonly int height;
         readonly float[,] image;
 
         /// <summary>
